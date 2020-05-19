@@ -15,7 +15,7 @@ node index treefy "Source Directory Path" "Destination Directory Path"
 For Un-Treefy :
 node index untreefy "Source Directory Path" "Destination Directory Path"
 
-Note : MetaData.json will be stored in Destination Direcctory.
+Note : MetaData.json will be stored in Destination Directory.
 
 Modules Required :
 1. UUID : For generating Random Names while Untreefying.
